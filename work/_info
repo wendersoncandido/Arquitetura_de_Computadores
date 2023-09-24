@@ -1,0 +1,131 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/19.4
+vadder
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1693799989
+!i10b 1
+!s100 FRLb`mJ0HVFK9LTc>TY9Y3
+!s11b <C_L1[Io^:I3S6?W@lDgU3
+I[FzG[Bn2X^z8i`OB0`B:i2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z3 dC:/Users/wende/OneDrive/Documentos/ARQUITETURA
+Z4 w1693799978
+Z5 8C:\Users\wende\OneDrive\Documentos\ARQUITETURA\tb.Timer.sv
+Z6 FC:\Users\wende\OneDrive\Documentos\ARQUITETURA\tb.Timer.sv
+L0 36
+Z7 OV;L;2019.2;69
+r1
+!s85 0
+31
+Z8 !s108 1693799989.000000
+!s107 C:\Users\wende\OneDrive\Documentos\ARQUITETURA\tb.Timer.sv|
+Z9 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\wende\OneDrive\Documentos\ARQUITETURA\tb.Timer.sv|
+!i113 1
+Z10 o-work work -sv
+Z11 tCvgOpt 0
+vcomparator
+R0
+R1
+!i10b 1
+!s100 Z^K6[99CVdYK8Oh7m16AE2
+!s11b UedQ4ezkWh7ZzY6SYJO;a2
+IVlhSk2_iXzIg_gX<jiz1_3
+R2
+S1
+R3
+R4
+R5
+R6
+L0 53
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 C:\Users\wende\OneDrive\Documentos\ARQUITETURA\tb.Timer.sv|
+R9
+!i113 1
+R10
+R11
+vflopr
+R0
+R1
+!i10b 1
+!s100 >ISV9N9<Z<j4f1??e;FmP2
+!s11b 8B49h]9L2InXag=il070E0
+Im?W:X8z5QFnJO>cVBn0_[0
+R2
+S1
+R3
+R4
+R5
+R6
+L0 43
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11
+vtestbench
+R0
+R1
+!i10b 1
+!s100 zEgCPDACZF8T<6>X?hVUF3
+!s11b z:k2T_6Il9VAT=X4b?cac0
+I8VK<ZTkXgY]2cgKBSz^[E1
+R2
+S1
+R3
+R4
+R5
+R6
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11
+vtimer
+R0
+R1
+!i10b 1
+!s100 D[TOPH?J2GA;>=J<0B5Z_3
+!s11b BfS<9<fYV_z?5dMe^54Ql2
+I:=o51@oam8M^gjWAKOo7I0
+R2
+S1
+R3
+R4
+R5
+R6
+L0 16
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11

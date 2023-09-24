@@ -1,0 +1,215 @@
+# Compile of tb.Timer.sv failed with 2 errors.
+# Compile of tb.Timer.sv failed with 2 errors.
+# Compile of tb.Timer.sv failed with 2 errors.
+# Compile of tb.Timer.sv failed with 2 errors.
+# Compile of tb.Timer.sv failed with 2 errors.
+# Compile of tb.Timer.sv failed with 2 errors.
+# Compile of tb.Timer.sv failed with 2 errors.
+# Compile of tb.Timer.sv failed with 2 errors.
+# Compile of tb.Timer.sv failed with 2 errors.
+# Compile of tb.Timer.sv failed with 1 errors.
+# Error opening C:/Users/wende/OneDrive/Documentos/ARQUITETURA/(vlog-13069) C:/Users/wende/OneDrive/Documentos/ARQUITETURA/tb.Timer.sv
+# Path name 'C:/Users/wende/OneDrive/Documentos/ARQUITETURA/(vlog-13069) C:/Users/wende/OneDrive/Documentos/ARQUITETURA/tb.Timer.sv' doesn't exist.
+# Error opening C:/Users/wende/OneDrive/Documentos/ARQUITETURA/(vlog-13069) C:/Users/wende/OneDrive/Documentos/ARQUITETURA/tb.Timer.sv
+# Path name 'C:/Users/wende/OneDrive/Documentos/ARQUITETURA/(vlog-13069) C:/Users/wende/OneDrive/Documentos/ARQUITETURA/tb.Timer.sv' doesn't exist.
+# Compile of tb.Timer.sv was successful.
+vsim -gui work.testbench
+# vsim -gui work.testbench 
+# Start time: 01:01:08 on Sep 04,2023
+# Loading sv_std.std
+# Loading work.testbench
+# Loading work.timer
+# Loading work.flopr
+# Loading work.adder
+# Loading work.comparator
+add wave -position end  sim:/testbench/timestamp
+add wave -position end  sim:/testbench/reset
+add wave -position end  sim:/testbench/flagT
+add wave -position end  sim:/testbench/dut/sum
+add wave -position end  sim:/testbench/dut/rtclk
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# End time: 14:37:00 on Sep 08,2023, Elapsed time: 109:35:52
+# Errors: 0, Warnings: 0
